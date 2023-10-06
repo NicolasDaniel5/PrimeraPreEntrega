@@ -9,7 +9,7 @@ function App() {
   return (
     <>
         <NavBarr/>
-        <ItemListContainer/>
+        <ItemListContainer greeting ="Apple Store"/>
     </>
   )
 }

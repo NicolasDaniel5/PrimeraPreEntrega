@@ -1,9 +1,10 @@
 import React from 'react'
 import './ItemListContainer.css'
 
-const ItemListContainer = () => {
+const ItemListContainer = (props) => {
   return (
-    <div><h1>Apple Store</h1></div>
+    
+    <div><h1>{props.greeting}</h1></div>
   )
 }
 
