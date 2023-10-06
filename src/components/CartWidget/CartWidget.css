@@ -1,0 +1,14 @@
+strong {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: fixed;
+   top: 18px;
+   right: 12px;
+   background-color: black;
+   color: white;
+   width: 15px;
+   height: 17px;
+   border-radius: 10px;
+   
+}
