@@ -22,14 +22,6 @@ const NavBarr = () => {
                 <NavLink to="categoria/2">iPad</NavLink>                  
                 </li>
 
-                <li>
-                <NavLink to='categoria/3'>Watch</NavLink>
-                </li>
-
-                <li>
-                <NavLink to='categoria/4'>AirPods</NavLink>
-                </li>
-
             </ul>
         </nav>
         <CartWidget/>
